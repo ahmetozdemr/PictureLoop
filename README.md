@@ -1,1 +1,1 @@
-Butona tıklandığında ekrandaki resimleri değiştirebilme uygulaması
+#PictureLoop
